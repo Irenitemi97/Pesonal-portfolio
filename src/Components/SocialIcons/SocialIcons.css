@@ -1,0 +1,30 @@
+ .social-links .icons {
+    margin-top: 40px;
+  }
+  
+  .social-links .icons {
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    margin: 0 3px;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    transition: 0.3s;
+    border: 1px solid #000;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+ .social-links .icons {
+    line-height: 0;
+  }
+  
+   .social-links .icons:hover {
+    background: #e01608;
+    border-color: #e01608;
+  }
+
+  
+  
