@@ -1,17 +1,17 @@
 
-import img1 from './images/chocho.jpg'
-
+import img1 from './images/tab.png'
+import img2 from './images/smallridman.png'
 export const cardlist =[
     {
         id: 1,
         img: img1,
-        link: "https://twitter.com"
+        link: "https://tabwears.netlify.app/"
        
     },
     {
         id: 2,
-        img: img1,
-        link: "https://twitter.com"
+        img: img2,
+        link: "https://www.smallridman.com/"
     },
     {
         id: 3,
