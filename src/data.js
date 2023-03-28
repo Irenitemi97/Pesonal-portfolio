@@ -1,6 +1,7 @@
 
 import img1 from './images/tab.png'
 import img2 from './images/smallridman.png'
+import img3 from './images/random.png'
 export const cardlist =[
     {
         id: 1,
@@ -15,7 +16,7 @@ export const cardlist =[
     },
     {
         id: 3,
-        img: img1,
-        link: "twitter.com"
+        img: img3,
+        link: "https://randomadviser.netlify.app/"
     }
 ]
