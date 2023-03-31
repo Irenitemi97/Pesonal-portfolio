@@ -11,8 +11,8 @@ function Header() {
                 <div className="i-title">
                    <div className="i-title-wrapper">
                     <div className="i-title-item">Frontend Developer</div>
-                    <div className="i-title-item">Fashion Desinger</div>
-                    <div className="i-title-item">Model</div>
+                    {/* <div className="i-title-item">Fashion Desinger</div>
+                    <div className="i-title-item">Model</div> */}
                    </div>
                 </div>
                 <h4 className="home__text pz__10">Based In Nigeria</h4>

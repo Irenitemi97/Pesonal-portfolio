@@ -62,12 +62,12 @@ h4.home__text{
     25%{
         transform: translateY(-80px);
     }
-    50%{
+    /* 50%{
         transform: translateY(-160px);
     }
     75%{
         transform: translateY(-240px);
-    }
+    } */
     100%{
         transform: translateY(-320px);
     }
