@@ -13,7 +13,7 @@ export const cardlist =[
     {
         id: 2,
         img: img2,
-        link: "https://irenitemi97.github.io/TSP-Portfolio/"
+        link: " https://irenitemi97.github.io/TSPupdated/"
        
     },
     {
