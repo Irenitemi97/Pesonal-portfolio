@@ -18,7 +18,7 @@ function AboutComp() {
                         <div className="col__2">
                             <h1 className="about__heading">About Me</h1>
                             <div className="about__meta">
-                                <p className="about__text p__color">Hi, I'm Adeniran Sulyman Adebayo. <br />Since the evolution of the world in modern scientific technology, web development technology is a complete motivation besides my passion for advanced and inquisitively high instinct of delivering elevated front-end user experience.</p>
+                                <p className="about__text p__color">Hii, I'm Adeniran Sulyman Adebayo. <br />Since the evolution of the world in modern scientific technology, web development technology is a complete motivation besides my passion for advanced and inquisitively high instinct of delivering elevated front-end user experience.</p>
                                 <p className="about__text p__color">I, of these recent days, successfully mastered the art of digital web design specializing in creating inclusive content to give a noteworthy and enticing visual outcome while writing clean code.</p>
                                 <p className="about__text p__color">  As a creative front-end developer, here are the technologies I do work with:<br /><div>
                                     <ProgressBar variant="danger" now={90} label={`HTML:${html}%`} /><br />
